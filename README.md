@@ -1,5 +1,5 @@
 # Build-a-Product-Landing-Page
-This files are part of the third work of the curriculum of the Responsive Web Design Certification at FreeCodeCamp.
+These files are part of the third work of the curriculum of the Responsive Web Design Certification at FreeCodeCamp.
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,7 +9,7 @@ This files are part of the third work of the curriculum of the Responsive Web De
 * [Screenshot](#screenshot)
 
 ## General info
-This project is basically a simple product landing webpage.
+These project is basically a simple product landing webpage.
 	
 ## Technologies
 Project is created with:
