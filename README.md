@@ -31,5 +31,5 @@ $ cd landingPage
 ```
 
 ## Screenshot
-![Alt text](/landingPage-screenShot.png?raw=true)
+![Alt text](/images/landingPage-screenShot.png?raw=true)
 
