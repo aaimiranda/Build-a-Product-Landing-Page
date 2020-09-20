@@ -9,7 +9,7 @@ These files are part of the third work of the curriculum of the Responsive Web D
 * [Screenshot](#screenshot)
 
 ## General info
-These project is basically a simple product landing webpage.
+This project is basically a simple product landing webpage.
 	
 ## Technologies
 Project is created with:
