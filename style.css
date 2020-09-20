@@ -1,0 +1,105 @@
+body {
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#header-img {
+    margin-top: 25px;
+    position: relative;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18pt;
+
+}
+
+#nav-bar {
+    position: fixed;
+    top: 0px;
+    left: 00px;
+    width: 100%;
+    background-color: #767676;
+    
+    display: flex;
+  }
+
+  nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+  }
+
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  #video {
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.columns {
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 31%;
+    padding: 2px;
+}
+
+.price {
+    list-style-type: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 0;
+    padding: 0;
+}
+
+.price .header {
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+}
+
+.price li {
+    border-bottom: 1px solid pink;
+    padding: 10px;
+    text-align: center;
+}
+
+.price .yel {
+    background-color: pink;
+    font-size: 20px;
+}
+
+.button {
+    background-color: violet;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+    @media (max-height: 800px) { 
+      p { font-size: 10px; 
+    } }
+
+.footer {
+  color: black;
+  text-align: center;
+}
